@@ -1,0 +1,25 @@
+﻿Fiscal Quarter,Company,Category,Sales
+FY18-Q1,A,Computers,300
+FY18-Q1,A,Printers,350
+FY18-Q1,B,Computers,1000
+FY18-Q1,B,Printers,700
+FY18-Q1,C,Computers,2500
+FY18-Q1,C,Printers,2800
+FY18-Q2,A,Computers,450
+FY18-Q2,A,Printers,200
+FY18-Q2,B,Computers,1100
+FY18-Q2,B,Printers,720
+FY18-Q2,C,Computers,2400
+FY18-Q2,C,Printers,2100
+FY18-Q3,A,Computers,600
+FY18-Q3,A,Printers,330
+FY18-Q3,B,Computers,850
+FY18-Q3,B,Printers,1200
+FY18-Q3,C,Computers,2400
+FY18-Q3,C,Printers,2000
+FY18-Q4,A,Computers,520
+FY18-Q4,A,Printers,400
+FY18-Q4,B,Computers,900
+FY18-Q4,B,Printers,700
+FY18-Q4,C,Computers,2000
+FY18-Q4,C,Printers,2200
